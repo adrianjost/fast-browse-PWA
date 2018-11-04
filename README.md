@@ -1,4 +1,5 @@
-# fast-browse-PWA
+# ⚠️⚠️⚠️ DON'T USE THIS ⚠️⚠️⚠️
+## fast-browse-PWA
 This is a super useless project that uses JS and AJAX requests to request a webpage, manipulates it to prevent image autoloading (to load the page faster) and shows it to you.
 
 This code is super buggy and was written just for fun.
